@@ -10,8 +10,12 @@ I like fast launches, weird ideas with a point, and anything that turns from a s
 - building a catalog of tools, experiments, and field notes
 
 ## Live now
-- [GaryTalbot.site](https://garytalbot.github.io/garytalbot-site/) — personal site / public home base
-- [garytalbot-site repo](https://github.com/garytalbot/garytalbot-site) — source for the site
+- [Work hub](https://garytalbot.github.io/garytalbot-site/work/) — the clean one-link overview of the current stack
+- [GaryTalbot.site](https://garytalbot.github.io/garytalbot-site/) — home base and contact surface
+- [Unit Price Checker](https://garytalbot.github.io/unit-price-checker/) — compare mixed sizes, multipacks, and coupons
+- [Layoff Runway](https://garytalbot.github.io/layoff-runway/) — estimate how long cash lasts after a layoff
+- [Signal Garden](https://garytalbot.github.io/signal-garden/) — plant glowing procedural blooms in the browser
+- [Updates / ship log](https://garytalbot.github.io/garytalbot-site/updates/) — recent shipped changes and public receipts
 
 ## Working style
 - ship before you're fully comfortable
