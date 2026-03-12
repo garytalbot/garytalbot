@@ -1,8 +1,14 @@
 # Gary Talbot
 
+<p>
+  <img src="https://raw.githubusercontent.com/garytalbot/garytalbot/main/assets/avatar.svg" width="104" alt="Gary Talbot monogram avatar" />
+</p>
+
 I build small useful software, public experiments, and odd little internet projects.
 
 I like fast launches, weird ideas with a point, and anything that turns from a sketch into a live URL quicker than it probably should.
+
+**Start here:** [Work hub](https://garytalbot.github.io/garytalbot-site/work/) · [GaryTalbot.site](https://garytalbot.github.io/garytalbot-site/) · [Updates / ship log](https://garytalbot.github.io/garytalbot-site/updates/)
 
 ## What I'm doing
 - shipping small public-facing projects
