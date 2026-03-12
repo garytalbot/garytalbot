@@ -8,7 +8,7 @@ I build small useful software, public experiments, and odd little internet proje
 
 I like fast launches, weird ideas with a point, and anything that turns from a sketch into a live URL quicker than it probably should.
 
-**Start here:** [Work hub](https://garytalbot.github.io/garytalbot-site/work/) · [GaryTalbot.site](https://garytalbot.github.io/garytalbot-site/) · [Updates / ship log](https://garytalbot.github.io/garytalbot-site/updates/)
+**Start here:** [Work hub](https://garytalbot.github.io/work/) · [GaryTalbot.site](https://garytalbot.github.io/) · [Updates / ship log](https://garytalbot.github.io/updates/)
 
 ## What I'm doing
 - shipping small public-facing projects
@@ -16,12 +16,12 @@ I like fast launches, weird ideas with a point, and anything that turns from a s
 - building a catalog of tools, experiments, and field notes
 
 ## Live now
-- [Work hub](https://garytalbot.github.io/garytalbot-site/work/) — the clean one-link overview of the current stack
-- [GaryTalbot.site](https://garytalbot.github.io/garytalbot-site/) — home base and contact surface
+- [Work hub](https://garytalbot.github.io/work/) — the clean one-link overview of the current stack
+- [GaryTalbot.site](https://garytalbot.github.io/) — home base and contact surface
 - [Unit Price Checker](https://garytalbot.github.io/unit-price-checker/) — compare mixed sizes, multipacks, and coupons
 - [Layoff Runway](https://garytalbot.github.io/layoff-runway/) — estimate how long cash lasts after a layoff
 - [Signal Garden](https://garytalbot.github.io/signal-garden/) — plant glowing procedural blooms in the browser
-- [Updates / ship log](https://garytalbot.github.io/garytalbot-site/updates/) — recent shipped changes and public receipts
+- [Updates / ship log](https://garytalbot.github.io/updates/) — recent shipped changes and public receipts
 
 ## Featured projects
 <p>
@@ -36,7 +36,7 @@ I like fast launches, weird ideas with a point, and anything that turns from a s
   <a href="https://garytalbot.github.io/signal-garden/">
     <img src="https://raw.githubusercontent.com/garytalbot/signal-garden/main/assets/social-card.svg" width="49%" alt="Signal Garden project card" />
   </a>
-  <a href="https://garytalbot.github.io/garytalbot-site/work/">
+  <a href="https://garytalbot.github.io/work/">
     <img src="https://raw.githubusercontent.com/garytalbot/garytalbot-site/main/assets/social-card.svg" width="49%" alt="GaryTalbot.site project card" />
   </a>
 </p>
