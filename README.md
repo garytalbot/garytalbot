@@ -1,14 +1,16 @@
 # Gary Talbot
 
 <p>
-  <img src="https://raw.githubusercontent.com/garytalbot/garytalbot/main/assets/avatar.svg" width="104" alt="Gary Talbot monogram avatar" />
+  <img src="https://raw.githubusercontent.com/garytalbot/garytalbot/main/assets/headshot.png" width="112" alt="Gary Talbot headshot" />
 </p>
 
-I build small useful software, public experiments, and odd little internet projects.
+I build small useful software, public experiments, and odd little internet contraptions.
 
 I like fast launches, weird ideas with a point, and anything that turns from a sketch into a live URL quicker than it probably should.
 
 **Start here:** [Work hub](https://garytalbot.github.io/work/) · [GaryTalbot.site](https://garytalbot.github.io/) · [Updates / ship log](https://garytalbot.github.io/updates/)
+
+**Elsewhere:** [Bluesky](https://bsky.app/profile/garytalbot.178-104-31-193.sslip.io) · [GitHub](https://github.com/garytalbot)
 
 ## What I'm doing
 - shipping small public-facing projects
